@@ -1,0 +1,370 @@
+#
+# Created for Leeds COMP 5821M Autumn 2020
+#
+#
+# Surface vertices=36 faces=64
+#
+Vertex 0 0.0000 0.0000 1.4803
+Vertex 1 0.4803 0.0000 1.0000
+Vertex 2 0.0000 0.4803 1.0000
+Vertex 3 -0.4803 0.0000 1.0000
+Vertex 4 0.0000 -0.4803 1.0000
+Vertex 5 0.0000 0.0000 0.5197
+Vertex 6 0.0000 0.0000 -0.5197
+Vertex 7 0.4803 0.0000 -1.0000
+Vertex 8 0.0000 0.4803 -1.0000
+Vertex 9 -0.4803 0.0000 -1.0000
+Vertex 10 0.0000 -0.4803 -1.0000
+Vertex 11 0.0000 0.0000 -1.4803
+Vertex 12 0.0000 0.3493 1.3493
+Vertex 13 0.3493 0.0000 1.3493
+Vertex 14 0.3493 0.3493 1.0000
+Vertex 15 -0.3493 0.0000 1.3493
+Vertex 16 -0.3493 0.3493 1.0000
+Vertex 17 0.0000 -0.3493 1.3493
+Vertex 18 0.3493 -0.3493 1.0000
+Vertex 19 0.0000 0.3493 0.6507
+Vertex 20 0.3493 0.0000 0.6507
+Vertex 21 -0.3493 -0.3493 1.0000
+Vertex 22 -0.3493 0.0000 0.6507
+Vertex 23 0.0000 -0.3493 0.6507
+Vertex 24 0.0000 0.3493 -0.6507
+Vertex 25 0.3493 0.0000 -0.6507
+Vertex 26 0.3493 0.3493 -1.0000
+Vertex 27 -0.3493 0.0000 -0.6507
+Vertex 28 -0.3493 0.3493 -1.0000
+Vertex 29 0.0000 -0.3493 -0.6507
+Vertex 30 0.3493 -0.3493 -1.0000
+Vertex 31 0.0000 0.3493 -1.3493
+Vertex 32 0.3493 0.0000 -1.3493
+Vertex 33 -0.3493 -0.3493 -1.0000
+Vertex 34 -0.3493 0.0000 -1.3493
+Vertex 35 0.0000 -0.3493 -1.3493
+Normal 0 0.0000 0.0000 -1.0000
+Normal 1 -1.0000 0.0000 0.0000
+Normal 2 0.0000 -1.0000 -0.0000
+Normal 3 1.0000 0.0000 0.0000
+Normal 4 0.0000 1.0000 0.0000
+Normal 5 0.0000 -0.0000 1.0000
+Normal 6 0.0000 0.0000 -1.0000
+Normal 7 -1.0000 0.0000 0.0000
+Normal 8 0.0000 -1.0000 -0.0000
+Normal 9 1.0000 0.0000 0.0000
+Normal 10 0.0000 1.0000 0.0000
+Normal 11 0.0000 -0.0000 1.0000
+Normal 12 -0.2108 -0.6912 -0.6912
+Normal 13 -0.6912 -0.2108 -0.6912
+Normal 14 -0.6912 -0.6912 -0.2108
+Normal 15 0.6912 -0.2108 -0.6912
+Normal 16 0.6912 -0.6912 -0.2108
+Normal 17 -0.2108 0.6912 -0.6912
+Normal 18 -0.6912 0.6912 -0.2108
+Normal 19 -0.2108 -0.6912 0.6912
+Normal 20 -0.6912 -0.2108 0.6912
+Normal 21 0.6912 0.6912 -0.2108
+Normal 22 0.6912 -0.2108 0.6912
+Normal 23 -0.2108 0.6912 0.6912
+Normal 24 -0.2108 -0.6912 -0.6912
+Normal 25 -0.6912 -0.2108 -0.6912
+Normal 26 -0.6912 -0.6912 -0.2108
+Normal 27 0.6912 -0.2108 -0.6912
+Normal 28 0.6912 -0.6912 -0.2108
+Normal 29 -0.2108 0.6912 -0.6912
+Normal 30 -0.6912 0.6912 -0.2108
+Normal 31 -0.2108 -0.6912 0.6912
+Normal 32 -0.6912 -0.2108 0.6912
+Normal 33 0.6912 0.6912 -0.2108
+Normal 34 0.6912 -0.2108 0.6912
+Normal 35 -0.2108 0.6912 0.6912
+FirstDirectedEdge 0 49
+FirstDirectedEdge 1 53
+FirstDirectedEdge 2 57
+FirstDirectedEdge 3 66
+FirstDirectedEdge 4 67
+FirstDirectedEdge 5 84
+FirstDirectedEdge 6 121
+FirstDirectedEdge 7 125
+FirstDirectedEdge 8 129
+FirstDirectedEdge 9 138
+FirstDirectedEdge 10 139
+FirstDirectedEdge 11 156
+FirstDirectedEdge 12 2
+FirstDirectedEdge 13 3
+FirstDirectedEdge 14 1
+FirstDirectedEdge 15 5
+FirstDirectedEdge 16 4
+FirstDirectedEdge 17 8
+FirstDirectedEdge 18 9
+FirstDirectedEdge 19 11
+FirstDirectedEdge 20 10
+FirstDirectedEdge 21 13
+FirstDirectedEdge 22 16
+FirstDirectedEdge 23 20
+FirstDirectedEdge 24 26
+FirstDirectedEdge 25 27
+FirstDirectedEdge 26 25
+FirstDirectedEdge 27 29
+FirstDirectedEdge 28 28
+FirstDirectedEdge 29 32
+FirstDirectedEdge 30 33
+FirstDirectedEdge 31 35
+FirstDirectedEdge 32 34
+FirstDirectedEdge 33 37
+FirstDirectedEdge 34 40
+FirstDirectedEdge 35 44
+Face 1 12 13 14
+Face 2 15 12 16
+Face 3 17 18 13
+Face 4 19 14 20
+Face 5 17 15 21
+Face 6 16 19 22
+Face 7 23 20 18
+Face 8 21 22 23
+Face 9 24 25 26
+Face 10 27 24 28
+Face 11 29 30 25
+Face 12 31 26 32
+Face 13 29 27 33
+Face 14 28 31 34
+Face 15 35 32 30
+Face 16 33 34 35
+Face 17 13 12 0
+Face 18 1 14 13
+Face 19 14 2 12
+Face 20 12 15 0
+Face 21 2 16 12
+Face 22 16 3 15
+Face 23 18 17 4
+Face 24 1 13 18
+Face 25 13 0 17
+Face 26 14 19 2
+Face 27 1 20 14
+Face 28 20 5 19
+Face 29 15 17 0
+Face 30 3 21 15
+Face 31 21 4 17
+Face 32 19 16 2
+Face 33 5 22 19
+Face 34 22 3 16
+Face 35 20 23 5
+Face 36 1 18 20
+Face 37 18 4 23
+Face 38 22 21 3
+Face 39 5 23 22
+Face 40 23 4 21
+Face 41 25 24 6
+Face 42 7 26 25
+Face 43 26 8 24
+Face 44 24 27 6
+Face 45 8 28 24
+Face 46 28 9 27
+Face 47 30 29 10
+Face 48 7 25 30
+Face 49 25 6 29
+Face 50 26 31 8
+Face 51 7 32 26
+Face 52 32 11 31
+Face 53 27 29 6
+Face 54 9 33 27
+Face 55 33 10 29
+Face 56 31 28 8
+Face 57 11 34 31
+Face 58 34 9 28
+Face 59 32 35 11
+Face 60 7 30 32
+Face 61 30 10 35
+Face 62 34 33 9
+Face 63 11 35 34
+Face 64 35 10 33
+OtherHalf 0 54
+OtherHalf 1 49
+OtherHalf 2 53
+OtherHalf 3 63
+OtherHalf 4 58
+OtherHalf 5 62
+OtherHalf 6 72
+OtherHalf 7 67
+OtherHalf 8 71
+OtherHalf 9 81
+OtherHalf 10 76
+OtherHalf 11 80
+OtherHalf 12 90
+OtherHalf 13 85
+OtherHalf 14 89
+OtherHalf 15 99
+OtherHalf 16 94
+OtherHalf 17 98
+OtherHalf 18 108
+OtherHalf 19 103
+OtherHalf 20 107
+OtherHalf 21 117
+OtherHalf 22 112
+OtherHalf 23 116
+OtherHalf 24 126
+OtherHalf 25 121
+OtherHalf 26 125
+OtherHalf 27 135
+OtherHalf 28 130
+OtherHalf 29 134
+OtherHalf 30 144
+OtherHalf 31 139
+OtherHalf 32 143
+OtherHalf 33 153
+OtherHalf 34 148
+OtherHalf 35 152
+OtherHalf 36 162
+OtherHalf 37 157
+OtherHalf 38 161
+OtherHalf 39 171
+OtherHalf 40 166
+OtherHalf 41 170
+OtherHalf 42 180
+OtherHalf 43 175
+OtherHalf 44 179
+OtherHalf 45 189
+OtherHalf 46 184
+OtherHalf 47 188
+OtherHalf 48 73
+OtherHalf 49 1
+OtherHalf 50 57
+OtherHalf 51 70
+OtherHalf 52 78
+OtherHalf 53 2
+OtherHalf 54 0
+OtherHalf 55 75
+OtherHalf 56 60
+OtherHalf 57 50
+OtherHalf 58 4
+OtherHalf 59 84
+OtherHalf 60 56
+OtherHalf 61 95
+OtherHalf 62 5
+OtherHalf 63 3
+OtherHalf 64 101
+OtherHalf 65 87
+OtherHalf 66 109
+OtherHalf 67 7
+OtherHalf 68 92
+OtherHalf 69 106
+OtherHalf 70 51
+OtherHalf 71 8
+OtherHalf 72 6
+OtherHalf 73 48
+OtherHalf 74 86
+OtherHalf 75 55
+OtherHalf 76 10
+OtherHalf 77 93
+OtherHalf 78 52
+OtherHalf 79 105
+OtherHalf 80 11
+OtherHalf 81 9
+OtherHalf 82 102
+OtherHalf 83 96
+OtherHalf 84 59
+OtherHalf 85 13
+OtherHalf 86 74
+OtherHalf 87 65
+OtherHalf 88 113
+OtherHalf 89 14
+OtherHalf 90 12
+OtherHalf 91 119
+OtherHalf 92 68
+OtherHalf 93 77
+OtherHalf 94 16
+OtherHalf 95 61
+OtherHalf 96 83
+OtherHalf 97 114
+OtherHalf 98 17
+OtherHalf 99 15
+OtherHalf 100 111
+OtherHalf 101 64
+OtherHalf 102 82
+OtherHalf 103 19
+OtherHalf 104 115
+OtherHalf 105 79
+OtherHalf 106 69
+OtherHalf 107 20
+OtherHalf 108 18
+OtherHalf 109 66
+OtherHalf 110 118
+OtherHalf 111 100
+OtherHalf 112 22
+OtherHalf 113 88
+OtherHalf 114 97
+OtherHalf 115 104
+OtherHalf 116 23
+OtherHalf 117 21
+OtherHalf 118 110
+OtherHalf 119 91
+OtherHalf 120 145
+OtherHalf 121 25
+OtherHalf 122 129
+OtherHalf 123 142
+OtherHalf 124 150
+OtherHalf 125 26
+OtherHalf 126 24
+OtherHalf 127 147
+OtherHalf 128 132
+OtherHalf 129 122
+OtherHalf 130 28
+OtherHalf 131 156
+OtherHalf 132 128
+OtherHalf 133 167
+OtherHalf 134 29
+OtherHalf 135 27
+OtherHalf 136 173
+OtherHalf 137 159
+OtherHalf 138 181
+OtherHalf 139 31
+OtherHalf 140 164
+OtherHalf 141 178
+OtherHalf 142 123
+OtherHalf 143 32
+OtherHalf 144 30
+OtherHalf 145 120
+OtherHalf 146 158
+OtherHalf 147 127
+OtherHalf 148 34
+OtherHalf 149 165
+OtherHalf 150 124
+OtherHalf 151 177
+OtherHalf 152 35
+OtherHalf 153 33
+OtherHalf 154 174
+OtherHalf 155 168
+OtherHalf 156 131
+OtherHalf 157 37
+OtherHalf 158 146
+OtherHalf 159 137
+OtherHalf 160 185
+OtherHalf 161 38
+OtherHalf 162 36
+OtherHalf 163 191
+OtherHalf 164 140
+OtherHalf 165 149
+OtherHalf 166 40
+OtherHalf 167 133
+OtherHalf 168 155
+OtherHalf 169 186
+OtherHalf 170 41
+OtherHalf 171 39
+OtherHalf 172 183
+OtherHalf 173 136
+OtherHalf 174 154
+OtherHalf 175 43
+OtherHalf 176 187
+OtherHalf 177 151
+OtherHalf 178 141
+OtherHalf 179 44
+OtherHalf 180 42
+OtherHalf 181 138
+OtherHalf 182 190
+OtherHalf 183 172
+OtherHalf 184 46
+OtherHalf 185 160
+OtherHalf 186 169
+OtherHalf 187 176
+OtherHalf 188 47
+OtherHalf 189 45
+OtherHalf 190 182
+OtherHalf 191 163
